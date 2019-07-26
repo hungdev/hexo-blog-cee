@@ -2,6 +2,7 @@
 title: Connect with server using .pem file - linux
 date: 2019-07-20 13:21:20
 tags:
+  - linux
 ---
 Bạn có nghĩ rằng việc sử dụng password để connect tới server thì tiện hơn không?
 Mình nghĩ không!!!
